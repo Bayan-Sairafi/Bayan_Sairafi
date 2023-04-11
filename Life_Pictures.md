@@ -4,7 +4,7 @@
 ![IMG_4046](https://user-images.githubusercontent.com/123404677/231103186-1471901c-ca28-4b40-af3d-ef0cf75df23c.JPG)
 
 
-## Simba while planning an escape plan! 
+## Simba while planning to escape the house! 
 ![IMG_3937](https://user-images.githubusercontent.com/123404677/231103210-bd578bb9-e980-45d2-9b44-64d83f55007b.JPG)
 
 # The beach 
