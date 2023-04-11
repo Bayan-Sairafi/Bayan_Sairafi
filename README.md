@@ -1,9 +1,9 @@
 
-<a href="Life_Pictures.html">About</a>
+<a href="Life_Pictures.html">Photos</a>
 
-<a href="Vision2030.html">About</a>
+<a href="Vision2030.html">Passion</a>
 
-<a href="Bayan CV 9-22.pdf.html">About</a>
+<a href="Bayan CV 9-22.pdf.html">Curriculum Vitae</a>
 
 
 
