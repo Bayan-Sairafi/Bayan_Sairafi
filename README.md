@@ -2,7 +2,7 @@
 
 
 
-# <a href="Bayan CV 9-22.pdf.html">Curriculum Vitae</a> | <a href="Vision2030.html">Passion</a> | <a href="Life_Pictures.html">Photos</a>
+# <a href="CV.html">Curriculum Vitae</a> | <a href="Vision2030.html">Passion</a> | <a href="Life_Pictures.html">Photos</a>
 
 
 # Who is Bayan Sairafi? 
