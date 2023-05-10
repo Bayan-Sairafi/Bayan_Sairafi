@@ -13,7 +13,7 @@
 
 # Presentation sketch using Shorthand 
 
-[(https://app.shorthand.com/organisations/JSrgFWI7zn/stories/Kbft5tVNzF )]
+[(https://app.shorthand.com/organisations/JSrgFWI7zn/stories/Kbft5tVNzF)]
 
 # User research Protocol 
 
@@ -58,7 +58,7 @@ Second Interviewee: Male 38
 
 
 
-## Interview findings
+# Interview findings
 
 
 
