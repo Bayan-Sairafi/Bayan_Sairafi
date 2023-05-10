@@ -32,8 +32,6 @@ First Interviewee: Female 34 years old.
 1. What did you like about the presentation?
  The presentation was informative and had a nice information flow starting from the problem statement, definition of terms, and concluding with recommendations. I particularly liked the artistic choice of pictures and supporting graphs which I believe greatly complimented the idea.
 
-I also think that there was sufficient references to support the points presented.
-
 2. Were the key points of the presentation clear and well-organized?
 Yes. The presentation was engaging, and it held the audience's attention.
 
