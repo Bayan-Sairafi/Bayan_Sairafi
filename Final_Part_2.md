@@ -11,9 +11,9 @@
 
 
 
+# Presentation sketch using Shorthand 
 
-
-https://app.shorthand.com/organisations/JSrgFWI7zn/stories/Kbft5tVNzF 
+[(https://app.shorthand.com/organisations/JSrgFWI7zn/stories/Kbft5tVNzF )]
 
 # User research Protocol 
 
@@ -30,7 +30,7 @@ https://app.shorthand.com/organisations/JSrgFWI7zn/stories/Kbft5tVNzF
 First Interviewee: Female 34 years old. 
 
 1. What did you like about the presentation?
-The presentation was informative and had a nice information flow starting from the problem statement, definition of terms, and concluding with recommendations. I particularly liked the artistic choice of pictures and supporting graphs which I believe greatly complimented the idea.
+ The presentation was informative and had a nice information flow starting from the problem statement, definition of terms, and concluding with recommendations. I particularly liked the artistic choice of pictures and supporting graphs which I believe greatly complimented the idea.
 
 I also think that there was sufficient references to support the points presented.
 
