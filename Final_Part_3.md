@@ -1,8 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
 
-  https://preview.shorthand.com/iAqpC6nbkLZ87wsS
+ 
   
 ### Once I had identified my topic and collected the relevant data, the next step was to analyze the data using statistical software or other analytical tools to identify patterns, trends, and insights. It was crucial to ensure that my analysis was accurate and unbiased, and that I was drawing valid conclusions from the data.
 
@@ -22,18 +21,13 @@
 
 # The audience
 
-### The intended audience for my data story is young females, it is important to consider their interests, needs, and prior knowledge of this topic. Young females may be particularly interested in stories they can relate to it such as body image, self-esteem, and mental health, as they are often targeted by unrealistic beauty standards and face unique challenges related to identity and self-worth. I provided actionable steps for young females to take away from the data story. It can help them build resilience and confidence. 
+### The intended audience for my data story is adolescents, it is important to consider their interests, needs, and prior knowledge of this topic. Young females may be particularly interested in stories they can relate to it such as body image, self-esteem, and mental health, as they are often targeted by unrealistic beauty standards and face unique challenges related to identity and self-worth. I provided actionable steps for young females to take away from the data story. It can help them build resilience and confidence. 
 
 
 
 
 # References
 
-https://www.city.ac.uk/__data/assets/pdf_file/0005/597209/Parliament-Report-web.pdf
-https://www.newportinstitute.com/resources/co-occurring-disorders/filters-mental-health/ 
-https://www.favikon.com/blog/social-media-mental-health
-https://www.vox.com/science-and-health/2018/8/10/17434088/plastic-surgery-face-lips-photo-snapchat-dysmorphia 
-https://uscstoryspace.com/2019-2020/bourdeva/Fall_Final/Selfie%20Dysmorphia-The%20Perfect%20Disorder/
 
 # Final thoughts
 
