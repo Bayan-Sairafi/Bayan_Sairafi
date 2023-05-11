@@ -2,6 +2,7 @@
 
 # Wireframes / storyboards
 
+
 ![Part II-1](https://github.com/Bayan-Sairafi/Bayan_Sairafi/assets/123404677/49fc7790-69ad-4d36-b68f-b5e5732d9eb7)
 ![Part II-2](https://github.com/Bayan-Sairafi/Bayan_Sairafi/assets/123404677/20b74d71-49f8-4fa7-a4c3-b4f775ac8459)
 ![Part II-3](https://github.com/Bayan-Sairafi/Bayan_Sairafi/assets/123404677/d8ad118e-3a1d-4503-83b4-23128a6ffba9)
@@ -10,8 +11,10 @@
 ![Part II-6](https://github.com/Bayan-Sairafi/Bayan_Sairafi/assets/123404677/3db4ffb5-f857-427d-8594-80e40c759b74)
 
 
+
+
 # Presentation sketch using Shorthand 
-[(https://preview.shorthand.com/iAqpC6nbkLZ87wsS)]
+https://preview.shorthand.com/iAqpC6nbkLZ87wsS
 
 
 # User Research Protocol 
