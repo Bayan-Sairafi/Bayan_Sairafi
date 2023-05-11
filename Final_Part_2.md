@@ -103,33 +103,6 @@ Despite some of the issues, the overall message of the presentation was clear an
 To improve the presentation, it would have been helpful to add sources and include more data to support the main points. It would have been useful to use information that reflected on the population and targeted audience. This would have made the presentation more credible and relevant to the audience.
 
 
-### Third Interviewee: female adolecent 15 years 
-
-1.	What did you like about the presentation?
-As a 15-year-old girl, I particularly liked the pictures used in the presentation. The images were eye-catching and helped to make the presentation more visually appealing. They also helped me to understand the main points better, and made the presentation more engaging.
-
-2.	Were the key points of the presentation clear and well-organized?
-The key points of the presentation were clear and well-organized. However, I did not see it as a huge problem, and I was not particularly concerned about the issue being presented. Nonetheless, I was able to understand the key points of the presentation, and they were presented in a logical order.
-
-3.	Was the presentation engaging and did it hold your attention?
-The presentation was engaging, but it was a little boring for me. As a teenager, I prefer presentations that are more interactive and that use a variety of media to keep my attention. While the presentation was informative, it did not hold my attention as much as I would have liked.
-
-4.	Were the visuals used effectively to support the key points?
-The visuals used in the presentation were effective in supporting the key points. As a teenager, I respond well to visuals, and I found that the pictures and graphs used in the presentation helped me to understand the main points better. They also added interest to the presentation.
-
-5.	Was the length of the presentation appropriate?
-As a teenager, I found the presentation to be long. My attention span is shorter than that of an adult, and I would have preferred a shorter presentation that was more to the point. Nonetheless, I was able to sit through the entire presentation and understand the main points.
-
-6.	Did the presenter address any questions or concerns you had about the topic?
-I still could not understand how the issue presented in the presentation would affect how I look to myself. This is an important concern for teenagers, and I would have liked to see more information presented on this topic. If the presenter had addressed this concern, I would have felt more engaged with the presentation.
-
-
-7.	Was the overall message of the presentation clear and compelling?
-As a 15-year-old girl, I found the overall message of the presentation to be clear and compelling. The presenter made a good case for the importance of the issue being presented, and I was able to understand the main points.
-
-8.	Was there anything that could have been improved in the presentation?
-To improve the presentation, I would suggest making it more relevant to people my age. The presentation should use language that is easy for teenagers to understand, and it should include more graphics that are easy to interpret. Additionally, I would suggest telling a story that is relevant to teenagers and that they can relate to. This will help to make the presentation more engaging and more effective in communicating the main points.
-
 
 # Interview findings
 
