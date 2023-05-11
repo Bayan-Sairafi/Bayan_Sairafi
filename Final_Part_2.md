@@ -12,7 +12,7 @@
 
 # Presentation sketch using Shorthand 
 
-[(https://app.shorthand.com/organisations/JSrgFWI7zn/stories/Kbft5tVNzF)]
+[(https://preview.shorthand.com/iAqpC6nbkLZ87wsS)]
 
 # User Research Protocol 
 
