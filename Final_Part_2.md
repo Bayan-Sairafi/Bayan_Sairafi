@@ -16,6 +16,14 @@
 
 # User Research Protocol 
 
+### Research Question:
+How does the use of face/body filters on social media affect the body image and self-esteem of female adolescents?
+
+### Research Goal: 
+
+The goal of the research is to gain a better understanding of the impact of social media's face/body filters on the body image and self-esteem of female adolescents. By conducting this research, I aim to contribute to the existing body of knowledge on the effects of social media on mental health and well-being, and to provide insights that could be useful for the development of interventions and prevention programs aimed at reducing the negative effects of social media use. Specifically, identify the types of filters that are most commonly used by female adolescents, how these filters affect their body image and self-esteem, and what factors may mitigate or exacerbate these effects. Ultimately, I hope that the findings of this research will contribute to a better understanding of the complex relationship between social media use and mental health outcomes, and inform the development of evidence-based interventions to promote positive mental health and well-being among female adolescents.
+
+
 
 ## My targeted audience I hope to reach
 
