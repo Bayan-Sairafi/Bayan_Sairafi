@@ -19,10 +19,12 @@
 
 ## My targeted audience I hope to reach
 
+My goal is to reach female adolescents who are in a sensitive phase of identity development and are in the process of acquiring their beliefs.
 
 
 ## My approach to identifying representative individuals to interview
 
+I plan to conduct a minimum of three interviews, which will include a mother of an adolescent, a father of an adolescent, and an adolescent themselves. This approach will ensure that we gather insights from all spheres of the community that are affected by the issue at hand.
 
 
 ## Interview script
@@ -130,7 +132,15 @@ To engage younger audiences, the use of more interactive and visually engaging m
 
 # Identified changes for Part III
 
+Based on the feedback from the interviews, there are several steps that could be taken to improve the next version of the presentation:
 
+Reorganize the content: To improve the flow of information, the presentation could be reorganized to make it more structured and logical. This could involve breaking up the content into sections, using headings and subheadings, and creating a clear narrative structure.
+
+Use statistics more effectively: To improve the use of statistics, the presentation could include more context or visual aids to help illustrate key points. This could involve using charts, graphs, or infographics to make the data more accessible and understandable.
+
+Increase engagement for younger audiences: To make the presentation more engaging for younger audiences, more interactive and visually engaging materials could be used, such as videos, animations, or gamification. These materials could be incorporated into the presentation to help make it more interactive and memorable.
+
+I also plan to include both male and female adolescents, and use open source images. 
 
 
 
