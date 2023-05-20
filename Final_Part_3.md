@@ -22,7 +22,9 @@
 #### Lastly, open-source images were utilized throughout the presentation. By leveraging freely available visual content, the presentation-maintained compliance with copyright regulations while still effectively enhancing the overall visual appeal and supporting the key messages being conveyed. By implementing these suggested steps, the final version of the presentation was significantly enhanced, offering an improved experience for the audience in terms of organization, visual representation, interactivity, inclusivity, and overall impact.
 
 
+## The final version of the stroy presentation 
 
+#### [Challenging Society's Narrow Definition of Perfection (shorthandstories.com)  ](https://carnegiemellon.shortha ndstories.com/challenging-societys-narrow-definition-of-perfection/index.html)
 
 ## The audience
 
