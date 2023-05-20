@@ -24,7 +24,8 @@
 
 ## The final version of the stroy presentation 
 
-#### [Challenging Society's Narrow Definition of Perfection (shorthandstories.com)  ](https://carnegiemellon.shortha ndstories.com/challenging-societys-narrow-definition-of-perfection/index.html)
+#### [[Challenging Society's Narrow Definition of Perfection (shorthandstories.com)  ](https://carnegiemellon.shortha ndstories.com/challenging-societys-narrow-definition-of-perfection/index.html) ](https://carnegiemellon.shorthandstories.com/challenging-societys-narrow-definition-of-perfection/index.html)
+
 
 ## The audience
 
