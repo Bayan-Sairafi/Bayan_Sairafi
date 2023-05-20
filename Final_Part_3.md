@@ -15,7 +15,12 @@
 
 ## Changes made since Part II
 
-####
+#### Based on the valuable feedback obtained from the interviews, several insightful steps were suggested to further improve the final version of the presentation. Firstly, a comprehensive reorganization of the content was implemented to enhance the overall flow of information, resulting in a more structured and logical presentation. This involved carefully breaking down the content into distinct sections, strategically employing headings and subheadings, and establishing a clear narrative structure that guided the audience through the key points and supporting details.
+
+#### Secondly, the effective use of statistics was emphasized by incorporating additional context and visualizations to enhance the audience's understanding of the data. This was achieved by integrating more charts and graphs that helped illustrate and clarify the main points being presented. By providing these visual representations, the data became clearer and more comprehensible to the audience. To further enhance the visual appeal and highlight important terms and takeaways, colored fonts were thoughtfully embedded within the presentation. This deliberate use of color added a visually engaging element that helped draw attention to critical information, making it easier for the audience to identify and retain key points. Additionally, it was ensured that both male and female adolescents were considered in the presentation, allowing for a more inclusive and representative approach. 
+
+#### Lastly, open-source images were utilized throughout the presentation. By leveraging freely available visual content, the presentation-maintained compliance with copyright regulations while still effectively enhancing the overall visual appeal and supporting the key messages being conveyed. By implementing these suggested steps, the final version of the presentation was significantly enhanced, offering an improved experience for the audience in terms of organization, visual representation, interactivity, inclusivity, and overall impact.
+
 
 
 
